@@ -1,24 +1,18 @@
-VERIDIAN PROJECT GROUP WEBSITE – V4 FIXED
+VERIDIAN PROJECT GROUP LLC — WEBSITE V5
 
-This version is company-focused and intentionally excludes the founder/owner personal name and all specific project experience.
+This package is the refined company-focused website for Veridian Project Group LLC.
 
 Pages:
-- Home
-- About
-- Services
-- Capabilities
-- Servicios en Español
-- Contact
+- index.html — Home
+- about.html — About
+- services.html — Services
+- experience.html — Capabilities
+- spanish.html — Servicios en Español
+- contact.html — Contact
 
-Website approach:
-- Construction management
-- Owner's representation
-- Cost estimating and budget management
-- Scheduling and project controls
-- Design and preconstruction support
-- Quality, risk, change management
-- Documentation and closeout
-- Technical consulting
-- Spanish-language communication and project support
+The site intentionally excludes personal names, personal credentials, project names, project-specific dollar values, and a project experience portfolio.
 
-Navigation was refined for desktop and mobile, with a visible header and responsive mobile menu.
+Deployment: GitHub Pages
+Domain: https://veridianprojectgroup.com
+
+Before publishing, upload all files and the assets folder to the repository root.
