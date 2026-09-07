@@ -16,3 +16,6 @@ Deployment: GitHub Pages
 Domain: https://veridianprojectgroup.com
 
 Before publishing, upload all files and the assets folder to the repository root.
+
+
+BBB update: The footer includes the BBB Accredited Business seal supplied for Veridian Project Group LLC and links to the official BBB Business Profile.
